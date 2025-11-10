@@ -30,4 +30,4 @@ By adjusting these parameters, you can easily create different oscillation behav
 Attach the **Oscillator** script to several GameObjects in the scene, each with different values for direction, amplitude, and speed.  
 When you run the game, each object will move in its own smooth, pendulum-like motion, centered around its original position.
 
-<a href="https://example.com">itch.io</a>
+<a href="https://itch.io/game/edit/4030272">itch.io</a>
